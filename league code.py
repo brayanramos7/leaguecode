@@ -179,7 +179,7 @@ for match_id in match_ids:
     a = player_data['assists']
     win = player_data['win']
      
-    # add them to our dataset
+    
     data['champion'].append(champion)
     data['pentakills'].append(k)
     data['cuadrakills'].append(k)
