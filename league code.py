@@ -7,9 +7,9 @@
 #print("Assists:", a)
 #print("KDA:", (k + a) / d)
 
-# api kay    --  RGAPI-697c8c36-0315-4115-a78c-ddf142cbe3dc  -- 
+# api kay    --  xxxxxxxxxxxxxxx  -- 
 
-api_key = " RGAPI-697c8c36-0315-4115-a78c-ddf142cbe3dc"
+api_key = " xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 api_url = "https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/groku"
 
